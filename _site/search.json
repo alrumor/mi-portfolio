@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Turismo de Algoritmos: El Impacto de Google en la Ciudad de Sevilla",
+    "section": "",
+    "text": "El espacio turístico urbano se ha convertido en una realidad híbrida donde el algoritmo actúa como el principal gestor del territorio. El siguiente mapa evidencia la densidad de los recursos turísticos y la visibilidad algorítmica alrededor del “Punto 0” (La Giralda)."
+  },
+  {
+    "objectID": "index.html#concentración-turística-mapa-qgis",
+    "href": "index.html#concentración-turística-mapa-qgis",
+    "title": "Turismo de Algoritmos: El Impacto de Google en la Ciudad de Sevilla",
+    "section": "",
+    "text": "El espacio turístico urbano se ha convertido en una realidad híbrida donde el algoritmo actúa como el principal gestor del territorio. El siguiente mapa evidencia la densidad de los recursos turísticos y la visibilidad algorítmica alrededor del “Punto 0” (La Giralda)."
+  },
+  {
+    "objectID": "index.html#reputación-digital-y-territorio",
+    "href": "index.html#reputación-digital-y-territorio",
+    "title": "Turismo de Algoritmos: El Impacto de Google en la Ciudad de Sevilla",
+    "section": "Reputación Digital y Territorio",
+    "text": "Reputación Digital y Territorio\n\nCalificación reputacional\nEl análisis de la calificación reputacional evidencia una clara “inflación de valoraciones”, donde el sesgo de positividad domina el ecosistema digital turístico de Sevilla. Es muy inusual encontrar puntuaciones inferiores a cuatro estrellas, ya que el algoritmo de recomendación tiende a invisibilizarlas. Además, se observa una diferencia estructural de comportamiento entre plataformas: TripAdvisor presenta una distribución progresiva que es propia de la planificación previa de viajes, mientras que Google Maps muestra notas mucho más agrupadas y menos críticas, reflejando el consumo impulsivo e inmediato característico de los servicios basados en localización (LBS)."
+  },
+  {
+    "objectID": "index.html#presencia-y-visibilidad-algorítmica",
+    "href": "index.html#presencia-y-visibilidad-algorítmica",
+    "title": "Turismo de Algoritmos: El Impacto de Google en la Ciudad de Sevilla",
+    "section": "Presencia y Visibilidad Algorítmica",
+    "text": "Presencia y Visibilidad Algorítmica\n\nVisibilidad y proximidad\nAl cruzar la visibilidad de los recursos frente a su distancia al principal nodo turístico, se constata que la visibilidad algorítmica general no disminuye al alejarse del centro, sino que presenta una ligera pendiente positiva. En un radio muy cercano al “Punto 0” (hasta 500 metros), el algoritmo suprime la visibilidad de muchos sectores para evitar el colapso de la interfaz. A mayor distancia, las atracciones turísticas se mantienen como los recursos más estables y visibles, mientras que los apartamentos turísticos sufren la mayor penalización de invisibilidad, dependiendo casi en exclusiva de otras plataformas externas.\n\n\n\n\n\n\n\n\nPatrones de búsqueda\nEl flujo de los recursos turísticos hacia su visualización final en Google Maps revela que la mayoría de los recursos evaluados y extraídos de TripAdvisor (el 64,7%) quedan completamente invisibilizados por el algoritmo de Google. La aparición en los espacios destacados (Local Packs) se estructura en tres niveles determinantes: un nivel orgánico basado en el capital reputacional (48%), un segundo nivel basado en la rentabilidad publicitaria (30%) y un tercer nivel de recursos “intrusos” (22%) que el algoritmo prioriza recurrentemente de forma independiente a la localización física."
+  },
+  {
+    "objectID": "index.html#gobernanza-digital",
+    "href": "index.html#gobernanza-digital",
+    "title": "Turismo de Algoritmos: El Impacto de Google en la Ciudad de Sevilla",
+    "section": "Gobernanza Digital",
+    "text": "Gobernanza Digital\n\nEmbudo algorítmico\nEl algoritmo actúa como un embudo que impone una severa presión turística digital sobre los recursos locales de la ciudad. Numerosos negocios que ostentan la máxima excelencia orgánica en TripAdvisor (ocupando las posiciones del 1 al 33 en los rankings) son ocultados sistemáticamente por la interfaz visual de Google Maps. Esta barrera de entrada orgánica obliga a la oferta turística a recurrir a la publicidad pagada (anuncios), generando un patrón donde recursos con baja calidad reputacional o escasa masa crítica pueden conquistar las posiciones visuales más privilegiadas, consolidando así un modelo de negocio Pay-to-Play y distorsionando por completo la libre competencia en el destino."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
