@@ -1,0 +1,55 @@
+/* css styles */
+/* Estilos generales para los textos y encabezados */
+body {
+  color: #333333;
+  line-height: 1.7;
+}
+
+h2, h3 {
+  color: #2c3e50;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Estilo profesional y tamaño forzado para el mapa */
+.mapa-interactivo {
+  width: 100%; 
+  height: 80vh;
+  min-height: 600px;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  margin-bottom: 3rem;
+  background-color: #f8f9fa;
+}
+  
+  /* Truco para centrar elementos de pantalla completa */
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  
+  margin-bottom: 3rem;
+  background-color: #f8f9fa;
+}
+
+/* Contenedor para dar respiro a las gráficas de Flourish */
+.graficos-grid .flourish-embed {
+  margin-bottom: 3rem;
+  padding: 1.5rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  border: 1px solid #edf2f7;
+  transition: transform 0.3s ease;
+}
+
+/* Pequeño efecto al pasar el ratón por las gráficas */
+.graficos-grid .flourish-embed:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+body {
+  overflow-x: hidden;
+}
